@@ -10,19 +10,3 @@ Create Table
         UserEmail varchar(50) not null,
         UserPhoneNumber varchar(50) not null
     );
-
-/*FOR DEMO*/
-insert into
-    Utilisateur (
-        Username,
-        UserPassword,
-        UserEmail,
-        UserPhoneNumber
-    )
-values
-    (
-        "Cyrille18",
-        "je suis Cyrille Pio",
-        "cyrillepio@hotmail.com",
-        "91205725"
-    );
