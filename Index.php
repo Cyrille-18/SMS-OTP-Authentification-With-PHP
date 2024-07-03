@@ -1,3 +1,6 @@
+<?php
+
+?>
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -22,7 +25,7 @@
                 <input class="btn" type="submit" name="submit" id="submit">
             </div>
             <div class="links">
-                Vous n'avez pas de compte ? <a href="CreateAccount.html">Créer un compte</a>
+                Vous n'avez pas de compte ? <a href="CreateAccount.php">Créer un compte</a>
             </div>
         </form>
     </div>
